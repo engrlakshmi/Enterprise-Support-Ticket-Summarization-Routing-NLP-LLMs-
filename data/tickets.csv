@@ -1,0 +1,6 @@
+ticket_id,description
+1,"Outlook not opening after update, user unable to access email"
+2,"Laptop running very slow, possible memory issue"
+3,"VPN connection dropping frequently while working remotely"
+4,"Unable to print, printer showing offline error"
+5,"Critical database server down, impacting production"
