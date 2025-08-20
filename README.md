@@ -7,14 +7,11 @@ The system reduces manual triage work and speeds up issue resolution by intellig
 ---
 
 ## 🚀 Features
-- **Summarization:** Generate concise summaries of long support tickets.  
-- **Entity Extraction:** Identify key fields like *issue type*, *urgency*, and *product*.  
-- **Multi-Agent Workflow (LangChain):**
-  - Agent 1 → Summarizes ticket  
-  - Agent 2 → Classifies urgency and issue type  
-  - Agent 3 → Assigns to the right team  
-- **Routing:** Outputs recommended support team assignment.  
-- **Performance Impact:** Cut manual triage effort by ~25% in test simulations.
+This project demonstrates an **LLM-powered multi-agent pipeline** for IT support automation:
+- **Summarizer**: Generates concise ticket summaries (BART / Pegasus).
+- **Classifier**: Detects issue type & urgency via zero-shot classification.
+- **Router**: Assigns the ticket to the correct IT team using rules.
+- **Pipeline**: Orchestrates the agents and processes tickets end-to-end.
 
 ---
 
