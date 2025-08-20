@@ -1,0 +1,5 @@
+| ticket\_id | description                                      | summary                      | classification | assigned\_team         |
+| ---------- | ------------------------------------------------ | ---------------------------- | -------------- | ---------------------- |
+| 1          | Outlook not opening after update, user unable... | Outlook not opening after... | Software Issue | App Support Team       |
+| 3          | VPN connection dropping frequently while remote  | VPN dropping frequently      | Network Issue  | Network Team           |
+| 5          | Critical database server down, impacting prod    | Database server down         | Critical       | Incident Response Team |
