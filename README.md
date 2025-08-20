@@ -41,10 +41,12 @@ This project demonstrates an **LLM-powered multi-agent pipeline** for IT support
 ---
 
 ## 🛠️ Tech Stack
-- **LLMs:** OpenAI GPT-4, LLaMA-2, Hugging Face transformers  
-- **Frameworks:** LangChain (multi-agent orchestration), PyTorch  
-- **Vector DB (optional):** FAISS / Chroma for retrieval  
-- **Deployment:** FastAPI for REST API, Streamlit for demo UI
+
+- **Hugging Face Transformers (BART, Zero-Shot models)
+
+- **Pandas
+
+- **Multi-agent orchestration via modular design (Summarizer, Classifier, Router)
 
 ---
 
