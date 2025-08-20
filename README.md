@@ -51,8 +51,3 @@ The system reduces manual triage work and speeds up issue resolution by intellig
 
 ---
 
-## ⚡ Quickstart
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/support-ticket-nlp.git
-   cd support-ticket-nlp
